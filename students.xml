@@ -16,12 +16,12 @@
         <Name>hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</Name>
         <Group>531</Group>
     </student>
-    <student ID="6">
-        <Name>&lt;cript&gt; &lt;script&gt;</Name>
-        <Group>531</Group>
-    </student>
-    <student ID="19">
+    <student ID="czim1902">
         <Name>Zsolt</Name>
         <Group>531</Group>
+    </student>
+    <student ID="6">
+        <Name>Zsolti</Name>
+        <Group>450</Group>
     </student>
 </Entities>
